@@ -1,0 +1,13 @@
+* html{
+    overflow-x: hidden;
+}
+
+.navbar-brand a img{
+    width: 250px;
+    height: auto;
+}
+
+body{
+    background: #10101a;
+    font-family: sans-serif;
+}
